@@ -24,7 +24,7 @@ int main() {
             number /= 2;
         }
 
-        // Prints binary string
+        // Prints binary numbers
         cout << "Binary representation: " << binary << endl;
     }
 
